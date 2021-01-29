@@ -4,7 +4,7 @@ import {Footer} from './style';
 function Rodape() {
     return(
         <Footer>
-            <small>Todos os direitos reservados. Othon Felipe ©  </small>
+            <small>Todos os direitos reservados. Othon Felipe®  </small>
         </Footer>
     )
 }
